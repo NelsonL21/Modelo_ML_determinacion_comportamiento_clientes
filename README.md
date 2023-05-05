@@ -19,7 +19,7 @@ Para ello se realizaron pruebas con 3 modelos diferentes de clasificación, para
 
 ### **Arbol de decisión**
 <p>
-El arbol de decisión en su mejor modelo consiguió una muy buena exactitud de 78.5381%, con una precisión 43.9153%, y una sensibilidad del 72.1739%, lograno un buen modelo, más no fué el elegido.
+El arbol de decisión en su mejor modelo consiguió una muy buena exactitud de 78.5381%, con una precisión 43.9153%, y una sensibilidad del 72.1739%, logrando un buen modelo, más no fué el elegido.
 </p>
 
 ### **Bosque de árboles de decisón alreatorio**
