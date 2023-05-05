@@ -29,7 +29,7 @@ Así mismo, empleando un bosque de árboles de decisón alreatorio que cuenta co
 
 ### **Regrsión logística**
 <p>
-Por último la regrsión logística dejo mucho que desear en este caso, con un 75.8942%, una presición de un 22.7513% y una sensibilidad elevada de un 82.6923% con lo cual se puede decir que no cumple como candidato para el caso de estudio
+Por último la regrasión logística dejo mucho que desear en este caso, con un 75.8942%, una presición de un 22.7513% y una sensibilidad elevada de un 82.6923% con lo cual se puede decir que no cumple como candidato para el caso de estudio
 </p>
 
 
